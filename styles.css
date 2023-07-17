@@ -45,6 +45,7 @@ body{
 .contentText{
     /* margin: 0; */
     font-family: 'Poppins';
+    font-size: larger;
 }
 
 .option{
